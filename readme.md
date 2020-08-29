@@ -1,3 +1,5 @@
+# Project created by Dr Kyle Feuz at Weber State University and completed by me.
+
 # Stack Class with recursion and Linked List
 
 A stack is an abstract data type that defines a set of behaviors (push, pop, top).
