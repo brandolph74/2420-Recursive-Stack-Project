@@ -1,4 +1,3 @@
-# Project created by Dr Kyle Feuz at Weber State University and completed by me.
 
 # Stack Class with recursion and Linked List
 
